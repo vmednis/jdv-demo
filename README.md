@@ -1,11 +1,3 @@
-# Jets Project
+# Jets + Dynamoid + Vue
 
-This README would normally document whatever steps are necessary to get the application up and running.
-
-Things you might want to cover:
-
-* Dependencies
-* Configuration
-* Database setup
-* How to run the test suite
-* Deployment instructions
+Example of a project using all three of these. See jets.vmednis.id.lv for a live demo.

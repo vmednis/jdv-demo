@@ -5,9 +5,11 @@ gem "jets"
 
 # Include mysql2 gem if you are using ActiveRecord, remove next line
 # and config/database.yml file if you are not
-gem "mysql2", "~> 0.5.2"
+#gem "mysql2", "~> 0.5.2"
+#gem "dynomite"
 
-gem "dynomite"
+gem "dynamoid"
+gem "webpacker", git: "https://github.com/tongueroo/webpacker.git", branch: "jets"
 
 # development and test groups are not bundled as part of the deployment
 group :development, :test do
